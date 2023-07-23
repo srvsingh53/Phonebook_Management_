@@ -1,11 +1,11 @@
-Phonebook Management Project 
+# Phonebook Management Project 
 
-Overview
+## Overview
 
 This project is a Phonebook Management System implemented using a Red-Black Tree data structure.
 It allows users to efficiently add, search, display, update, and remove contacts in the phonebook.
 
-Features
+## Features
 
 1. Add new contacts to the phonebook--> O(log n)
 2. Search for existing contacts by name--> O(log n)
@@ -13,7 +13,7 @@ Features
 4. Remove contacts from the phonebook--> O(log n)
 5. Change phone numbers of existing contacts--> O(log n)
 
-Implemented Data Structures
+## Implemented Data Structures
 
 1. Binary Search tree
 2. Red-black tree
@@ -21,14 +21,14 @@ Implemented Data Structures
 4. Traversals of binary tree-(Inorder Preorder Postorder)
 5. Heap-(max heap, min heap)
 
-Prerequisites
+## Prerequisites
 
 To run this project, you need:
 1. C++ compiler (supporting C++11 or higher)
 2. Standard C++ library
 
 
-Usage
+## Usage
 
 1. Launch the Phonebook Management System.
 2. Choose an option from the menu:
